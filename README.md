@@ -1,3 +1,12 @@
+# Welcome traveler! 
+## This project is a compilation of my random coding challenges
+###Feel free to browse around!
+### Hope you find something interesting here 😄
+
+---
+
+### Open the spoilers below to checkout each challenge's result
+
 <details>
   <summary>Fractal Trees</summary>
   <img src="ReadmeImgs/imgs_FractalTree/img.png" alt="drawing" width="400"/>
