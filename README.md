@@ -1,6 +1,6 @@
 # Welcome traveler! 
 ## This project is a compilation of my random coding challenges
-###Feel free to browse around!
+### Feel free to browse around!
 ### Hope you find something interesting here 😄
 
 ---
